@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "ducthuanchucmung8thang3",
-    introTitle: 'hi chào ánh tuyết',
-    introDesc: `bạn có một tin nhắn từ DUC THUAN `,
+    introTitle: 'hi chào ÁNH TUYẾT',
+    introDesc: `bạn có một tin nhắn từ ĐỨC THUẬN `,
     btnIntro: '^^HiHi^^',
     title: 'Ngày 8-3 chúc một nửa thế giới luôn thành công trong cuộc sống 🥰',
     desc: 'Chúc bạn luôn duyên dáng và xinh đẹp trong mắt một nửa thế giới còn lại. ',
