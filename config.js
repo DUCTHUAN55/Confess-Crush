@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    titleWeb: "ducthuanchucban",
+    introTitle: 'Hi Bánh Nè Tuyết ',
+    introDesc: `HÔM NAY LÀ MỘT NGÀY ĐẶC BIỆT`,
+    btnIntro: '^^ÁNH TUYẾT^^',
+    title: 'Ngày 8-3 chúc một nửa thế giới luôn thành công trong cuộc sống🥰',
+    desc: 'Chúc bạn luôn duyên dáng và xinh đẹp trong mắt một nửa thế giới còn lại. ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    question: 'Cái gì đàn ông thì có mà đàn bà không có, của người trẻ thì thường cứng hơn của người già? <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Râu <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    messDesc: 'Chúc bạn luôn xinh đẹp, nụ cười luôn rạng ngời trên môi. Happy Women's Day..',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
