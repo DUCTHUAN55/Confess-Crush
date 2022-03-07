@@ -1,15 +1,20 @@
 const CONFIG = {
-    titleWeb: "ĐỨC THUẬN CHÚC MỪNG 8/3",
-    introTitle: 'HI CHÀO CẬU',
-    introDesc: `HÔM NÀY LÀ NGÀY GÌ THẾ BẠN .`,
-    btnIntro: '^^CÒN TIẾP^^',
-    title: ' Chúc bạn luôn xinh đẹp, nụ cười luôn rạng ngời trên môi. 🥰',
-    desc: ' Happy Women's Day ',
-    btnYes: 'NUỐN XEM TIẾP KHÔNG <33',
-    btnNo: 'CÓ NHA :3',
-    question: ' Cái gì phụ nữ thích cầm nhất? <3',
-    btnReply: 'Gửi cho  <3',
-    reply: ' Đáp án: Tiền lương của chồng <33333333',
+    titleWeb: "Tiêu đề web",
+    introTitle: 'Tên người yêu bạn',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
+    Đằng sau chữ yêu đây là thương`,
+    btnIntro: '^^HiHi^^',
+    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
+    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'Thích lắm <33',
+    btnNo: 'Không nha :3',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    btnReply: 'Gửi cho bạn <3',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
+    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    btnAccept: 'Okiiiii lun <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
